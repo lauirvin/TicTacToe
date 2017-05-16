@@ -1,6 +1,8 @@
-# TicTacToe
-Python 3 Tic-Tac-Toe with networking/server multiplayer option and artificial intelligence mode.
+Python 3 with Tkinter and Server/Client code
+
 
 RUN GAME CODE, CLIENT CODE AND SERVER CODE
-(USE PUTTY.EXE IF NECCESSARY)
+(USE PUTTY.EXE FOR SERVER IF NECCESSARY)
+
+
 
